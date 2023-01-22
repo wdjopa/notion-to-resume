@@ -1,0 +1,15 @@
+export const SOCIAL_LINKS = [
+  "linked",
+  "pinterest",
+  "figma",
+  "youtube",
+  "dribbble",
+  "github",
+  "gitlab",
+  "bitbucket",
+  "twitter",
+  "facebook",
+  "instagram",
+  "tiktok",
+  "behance",
+];

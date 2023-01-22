@@ -1,0 +1,49 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 11/12/2017 08:10
+  	*/
+
+	@font-face {
+	  font-family: "Flaticon";
+	  src: url("/Flaticon.eot");
+	  src: url("/Flaticon.eot?#iefix") format("embedded-opentype"),
+	    url("/Flaticon.woff") format("woff"),
+	    url("/Flaticon.svg#Flaticon") format("svg");
+	  font-weight: normal;
+	  font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	  @font-face {
+	    font-family: "Flaticon";
+	    src: url("/Flaticon.svg#Flaticon") format("svg");
+	  }
+	}
+
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	  font-family: Flaticon;
+	  font-style: normal;
+	}
+
+	.flaticon-001-yoga:before {
+	  content: "\f100";
+	}
+
+	.flaticon-013-chess-1:before {
+	  content: "\f10c";
+	}
+
+	.flaticon-015-photo-camera:before {
+	  content: "\f10e";
+	}
+
+	.flaticon-032-cooking:before {
+	  content: "\f11f";
+	}
+
+	.flaticon-035-tent:before {
+	  content: "\f122";
+	}
